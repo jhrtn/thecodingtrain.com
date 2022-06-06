@@ -1,0 +1,9 @@
+{
+  "title": "Interactive Three.js Mandelbulb Generator",
+  "author": {
+    "name": "Joseph Horton",
+    "url": "https://github.com/jhrtn"
+  },
+  "url": "https://mandelbulb-three-r3f.vercel.app/",
+  "source": "https://github.com/jhrtn/mandelbulb-three-r3f"
+}
